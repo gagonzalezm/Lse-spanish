@@ -1,6 +1,6 @@
 # learning statistics with jamovi SPANISH TRANSLATION
 
-THIS TRANSLATION IS BASED IN REPOSITORY OF Navarro DJ and Foxcroft DR (2019). learning statistics with jamovi: a tutorial for psychology students and other beginners. (Version 0.70)
+THIS TRANSLATION IS BASED IN REPOSITORY TWORK OF DAVID FOXCROFT (jamovi adaptation) AND DANIELLE NAVARRO (original book) https://github.com/davidfoxcroft/lsj-book 
 
 Contains LaTeX source for:
 
